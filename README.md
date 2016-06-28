@@ -1,1 +1,1 @@
-# leyayacob.github.io
+# codeofcolors.github.io
