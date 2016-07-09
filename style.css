@@ -9,9 +9,8 @@ h4 {
 }
 body {
     background-color: aliceblue;
-}
-body {
-	border-style: solid;
+    border-style: solid;
+    background-size: cover;
 }
 
 
