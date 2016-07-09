@@ -9,8 +9,7 @@ h4 {
 }
 body {
     background-color: aliceblue;
-    border-style: solid;
-    border-bottom: solid;
+    border-bottom: 6px solid black;
 }
 
 ul {
