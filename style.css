@@ -10,7 +10,13 @@ h4 {
 body {
     background-color: aliceblue;
     border-style: solid;
-    background-size: cover;
+}
+body {
+	font-family: Georgia, serif;
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
 }
 
 
