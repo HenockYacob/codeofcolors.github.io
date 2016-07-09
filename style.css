@@ -4,6 +4,9 @@ p {
 h4 {
   color: fuchsia;
 }
+h4 {
+	font-size: 32px;
+}
 ul {
   color: darkblue;
 }
