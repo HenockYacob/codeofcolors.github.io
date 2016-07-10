@@ -22,5 +22,8 @@ body {
 	text-align: left;
 	width: 100%;
 }
-
+body {
+     border: 1px solid #ccc;
+     padding: 5px; 
+}
 
