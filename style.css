@@ -31,7 +31,7 @@ body {
 header {
 	width: 100%;
 }
-style {
+#rcorners1 {
     border-radius: 25px;
     background: #73AD21;
     padding: 20px;
