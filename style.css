@@ -29,14 +29,12 @@ body {
 }
 body {
      border: 1px solid #ccc;
-     margin: 0px 50px;
+     margin: 0px 70px;
      padding: 20px 40px;
      padding-top: 35px;
 }
 header {
 	width: 100%;
 }
-div p {
-	display: block;
-}
+
 
