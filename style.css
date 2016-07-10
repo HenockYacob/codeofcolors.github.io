@@ -1,6 +1,5 @@
 p {
   color: darkblue;
-  background color: white;
 }
 h4 {
   color: darkblue;
@@ -10,6 +9,7 @@ h4 {
 
 div {
     font-size: 16px;
+    background color: white;
 }
 
 body {
