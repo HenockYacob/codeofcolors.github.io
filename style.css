@@ -37,12 +37,6 @@ body {
 header {
 	width: 100%;
 }
-div {
-    background-color: lightgrey;
-    width: 60%;
-    border: 40px solid green;
-    padding: 60px;
-    margin: 70px;
-}
+
 
 
