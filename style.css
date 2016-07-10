@@ -2,7 +2,10 @@ p {
   color: darkblue;
 }
 h4 {
-  color: fuchsia;
+  color: darblue;
+}
+h4 thicker {
+    font-weight: 900;
 }
 h4 {
 	font-size: 16px;
