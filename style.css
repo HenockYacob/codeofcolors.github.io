@@ -3,13 +3,10 @@ p {
 }
 h4 {
   color: darblue;
+  font-weight: 900;
+  font-size: 16px;
 }
-h4 thicker {
-    font-weight: 900;
-}
-h4 {
-	font-size: 16px;
-}
+
 div {
     font-size: 16px;
 }
