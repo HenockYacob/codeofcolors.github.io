@@ -1,5 +1,6 @@
 p {
   color: darkblue;
+  outline color: red;
 }
 h4 {
   color: darkblue;
@@ -9,7 +10,6 @@ h4 {
 
 div {
     font-size: 16px;
-    background color: white;
 }
 
 body {
