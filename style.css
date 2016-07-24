@@ -22,7 +22,8 @@ body {
 
 ul {
   color: darkblue;
-  list-style: circle inside url(media/redbullet.gif); 
+  list-style: circle inside url(media/redbullet.gif);
+  font-size: 11px;
 }
 body {
 	font-family: Georgia, serif;
