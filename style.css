@@ -43,20 +43,16 @@ body {
 	margin: 0 auto 0 auto;
 	text-align: left;
 	width: 100%;
+	border: 1px solid #ccc;
+     	padding: 20px 40px;
+     	padding-top: 35px;
+     	border: 25px solid green;
 }
-body {
-     border: 1px solid #ccc;
-     margin-left: 50px;
-     margin-top: 75px;
-     padding: 20px 40px;
-     padding-top: 35px;
-}
+
 header {
 	width: 100%;
 }
-body {
-	border: 25px solid green;
-}
+
 hr {
 	color: darkblue;
 	background-color: darkblue;
