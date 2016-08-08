@@ -28,7 +28,7 @@ div {
 ul {
   color: darkblue;
   list-style: circle inside url(media/redbullet.gif);
-  line-height: 1;
+  line-height: 2;
 }
 li {
 	font-size: 14px;
