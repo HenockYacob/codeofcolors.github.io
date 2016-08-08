@@ -57,8 +57,12 @@ header {
 body {
 	border: 25px solid green;
 }
-.hr {
-	color: darkblue;
+hr.style-seven {
+    height: 30px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px 0 0 0;
+    border-radius: 20px;
 }
 
 
