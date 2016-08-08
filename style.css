@@ -57,6 +57,8 @@ header {
 body {
 	border: 25px solid green;
 }
-
+.hr {
+	color: darkblue;
+}
 
 
