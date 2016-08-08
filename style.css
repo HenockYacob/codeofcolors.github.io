@@ -47,6 +47,11 @@ header {
 body {
 	border: 25px solid green;
 }
-
+.box {
+	border: 2px solid black;
+	margin: 20px;
+	padding: 10px;
+	width: 300px;
+}
 
 
