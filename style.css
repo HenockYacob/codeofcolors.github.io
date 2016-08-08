@@ -32,6 +32,8 @@ body {
 	margin: 500px auto 0 auto;
 	text-align: left;
 	border: 2px solid #ccc;
+	height: 100%;
+	width: 100%;
 	
 }
 header {
