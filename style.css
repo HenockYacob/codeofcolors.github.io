@@ -8,7 +8,7 @@ h4 {
   font-size: 16px;
 }
 h1 {
-   color: darkblue;
+	color: darkblue;
 }
 
 div {
@@ -29,18 +29,23 @@ li {
 }
 body {
 	font-family: Georgia, serif;
-	margin: 500px auto 0 auto;
-	text-align: left;
-	border: 2px solid #ccc;
 	height: 100%;
+	margin: 0 auto 0 auto;
+	text-align: left;
 	width: 100%;
-	
+}
+body {
+     border: 1px solid #ccc;
+     margin-left: 50px;
+     margin-top: 75px;
+     padding: 20px 40px;
+     padding-top: 35px;
 }
 header {
 	width: 100%;
 }
 body {
-	border: 20px solid black;
+	border: 25px solid green;
 }
 
 
