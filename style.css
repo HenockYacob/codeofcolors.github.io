@@ -47,7 +47,7 @@ header {
 body {
 	border: 25px solid green;
 }
-.box {
+border-radius {
 	border: 2px solid black;
 	margin: 20px;
 	padding: 10px;
