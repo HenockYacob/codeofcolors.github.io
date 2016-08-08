@@ -57,6 +57,7 @@ hr {
 	color: darkblue;
 	background-color: darkblue;
 	height: 5px;
+	line-height: 2;
 }
 .header {
 	line-height: .5;
