@@ -63,5 +63,7 @@ hr {
 	height: 5px;
 }
 html {
-	background: url(background-1157112_1920.jpg);
+	height: 100%;
+	background: url(background-1157112_1920.jpg) no-repeat center center;
+	background-size: cover;
 }
