@@ -47,11 +47,9 @@ header {
 body {
 	border: 25px solid green;
 }
-border-radius {
-	border: 2px solid black;
-	margin: 20px;
-	padding: 10px;
-	width: 300px;
+.header {
+	display: block;
+	margin: 0 auto 0 auto;
 }
 
 
