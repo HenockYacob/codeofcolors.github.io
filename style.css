@@ -31,7 +31,7 @@ body {
 	font-family: Georgia, serif;
 	height: 100%;
 	margin: 0;
-	text-align: left;
+	text-align: center;
 	width: 100%;
 }
 body {
@@ -46,10 +46,6 @@ header {
 }
 body {
 	border: 25px solid green;
-}
-.header {
-	display: block;
-	margin: 0 auto 0 auto;
 }
 
 
