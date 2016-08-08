@@ -15,6 +15,7 @@ h1 {
 h5  {
 	color: darkblue;
 	line-height: 0;
+	font-family: verdana;
 }
 h3 {
 	color: darkblue;
@@ -61,6 +62,7 @@ hr {
 }
 .header {
 	line-height: .5;
+	font-family: verdana;
 }
 .objective {
 	line-height: 0;
