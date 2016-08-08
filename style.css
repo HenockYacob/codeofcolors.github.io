@@ -19,6 +19,7 @@ h3 {
 }
 div {
     font-size: 12px;
+    line-height: 0;
 }
 
 body {
@@ -53,5 +54,6 @@ header {
 body {
 	border: 25px solid green;
 }
+
 
 
