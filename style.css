@@ -30,8 +30,8 @@ li {
 body {
 	font-family: Georgia, serif;
 	height: 100%;
-	margin: 0;
-	text-align: center;
+	margin: 0 auto 0 auto;
+	text-align: left;
 	width: 100%;
 }
 body {
